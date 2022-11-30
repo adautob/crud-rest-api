@@ -6,6 +6,8 @@ API para Cadastro de Usuários, tecnologias utilizadas: Java, Spring Boot, Sprin
 
 Objetivos: Utilizar das tecnologias mais modernas para construção de APIs. Destacando nesse projeto o Spring Boot.
 
+Demo do projeto: http://bit.ly/3AWwljt
+
 ![projeto_desafiador](https://user-images.githubusercontent.com/95452249/196074069-8595ea07-0f07-4ee9-b4e3-90da837862c4.png)
 
 ## Aprendizado:
